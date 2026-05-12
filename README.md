@@ -20,14 +20,13 @@
 ```javascript
 const injas = {
   name:       "Injas Ifham",
-  role:       "Full-Stack Developer & CS Undergraduate",
+  role:       "Full-Stack Developer",
   university: "Informatics Institute of Technology (IIT), Sri Lanka",
   location:   "Dehiwala, Sri Lanka 🇱🇰",
-  passion:    ["Full-Stack Development", "Software Engineering", "Clean Code"],
+  passion:    ["Full-Stack Development", "Software Engineering"],
   currentlyWorking: "Junior Web Developer @ Sparkle Media (Freelance)",
   learning:   ["Next.js", "Advanced Spring Boot", "Cloud Architecture"],
   goal:       "Building scalable, impactful software that solves real problems",
-  funFact:    "I turn ☕ coffee into responsive web applications"
 };
 ```
 
